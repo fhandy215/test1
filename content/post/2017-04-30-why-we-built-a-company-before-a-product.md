@@ -151,13 +151,7 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 ⋅⋅⋅(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
 
 * Unordered list can use asterisks
-
-
 * Or minuses
-
-
 * Or pluses
 
 <script src="[https://cdn.commoninja.com/sdk/latest/commonninja.js](https://cdn.commoninja.com/sdk/latest/commonninja.js "https://cdn.commoninja.com/sdk/latest/commonninja.js")" defer></script>
-
-<div class="commonninja_component" comp-type="comparison_table" comp-id="dbfd5521-d6e0-4376-bbe8-43bcc275ae36"></div>
