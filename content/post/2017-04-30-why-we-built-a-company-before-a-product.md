@@ -154,4 +154,16 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 * Or minuses
 * Or pluses
 
-<script src="[https://cdn.commoninja.com/sdk/latest/commonninja.js](https://cdn.commoninja.com/sdk/latest/commonninja.js "https://cdn.commoninja.com/sdk/latest/commonninja.js")" defer></script>
+<script src="[https://cdnjs.cloudflare.com/ajax/libs/mermaid/7.1.2/mermaid.min.js](https://cdnjs.cloudflare.com/ajax/libs/mermaid/7.1.2/mermaid.min.js "https://cdnjs.cloudflare.com/ajax/libs/mermaid/7.1.2/mermaid.min.js")"></script> <script> mermaid.initialize({startOnLoad:true}); </script>
+
+<div class="mermaid">
+
+graph LR
+
+  A --- B
+
+  B-->C\[fa:fa-ban forbidden\]
+
+  B-->D(fa:fa-spinner);
+
+</div>
